@@ -1,19 +1,12 @@
 {
-  "name": "t-component",
-  "repo": "component/t",
+  "name": "component-t",
   "description": "tiny translation helper",
   "version": "1.0.0",
-  "keywords": [],
-  "dependencies": {},
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "scripts": [
-    "index.js"
+  "keywords": [
+    "translate",
+    "i18n",
+    "internationalization",
+    "gettext"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/t.git"
-  }
+  "dependencies": {}
 }
